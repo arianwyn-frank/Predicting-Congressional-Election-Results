@@ -1,4 +1,4 @@
-# DDHQ-Fellowship-Challenge
+# Predicting Congressional Election Results
 
 This is a project in which I have been transported through time and tasked with predicting the R-D Victory Margin for each seat in the 2018 House of Representatives election. 
 
